@@ -1,0 +1,36 @@
+body {
+    background-color: #2A3D51;
+    color: white;
+}
+
+.border-top-down {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    color: inherit;
+}
+
+.border-left-right {
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    color: rgba(12, 22, 33, 0.575);
+    color: inherit;
+}
+
+td {
+    /* background-color: aqua; */
+    height: 150px;
+    width:  150px;
+    color: white;
+    text-align: center;
+    font-size: 6rem;
+    cursor: pointer;
+    background-color: #2F2C5E;
+}
+
+table {
+    margin: 3% auto;
+}
+
+.center {
+    text-align: center;
+}
