@@ -31,5 +31,8 @@ run the program
 ```bash
 npm run start
 ```
+## Demo
+![til](./images/output.gif)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
