@@ -6,6 +6,12 @@ TicTacToe online game
 * you must install nodejs in your system
 * Terminal or gitbash for windows
 * mongodb server
+
+### Technology used in project
+* HTML, CSS, JAVASCRIPT (frontend)
+* NodeJS as backend
+* mongodb as server
+* Socket.io
 ### Installation
 
 * first you must clone the project using git
@@ -33,6 +39,11 @@ npm run start
 ```
 ## Demo
 ![til](./images/output.gif)
+
+## Live Demo
+```bash
+https://aqueous-escarpment-75431.herokuapp.com/
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
