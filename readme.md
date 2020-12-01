@@ -19,7 +19,7 @@ TicTacToe online game
 ```bash
 git clone https://github.com/moyad123/tictactoe-online.git
 ```
-* Then cd to blog_project
+* Then cd to tictactoe-online
 
 ```bash
 cd tictactoe-online
