@@ -17,7 +17,7 @@ TicTacToe online game
 * first you must clone the project using git
 
 ```bash
-git clone https://github.com/moyad123/tictactoe-online.git
+git clone https://github.com/moayadalsariya/tictactoe-online.git
 ```
 * Then cd to tictactoe-online
 
